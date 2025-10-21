@@ -37,3 +37,93 @@ Briefly introduced to industry standards that guide professional testing:
 
 ---
 *These notes summarize my personal learnings from the TechCrush Bootcamp. All original training material is the property of TechCrush.pro.*
+
+
+
+
+
+
+
+
+
+
+🧠 Day 2 — Information Security Fundamentals (CIA Triad, Controls, Risk & Compliance)
+
+Date: 2025-10-21
+Bootcamp: TechCrush Ethical Hacking Bootcamp (#techcrushHQ)
+Facilitator: Caleb Ndubuisi
+
+
+---
+
+🗒️ Summary
+
+Today’s class laid the groundwork for every ethical hacker and blue-team defender.
+We explored the CIA Triad, Information Assurance, the three layers of security controls, the risk formula, and the laws & compliance frameworks that govern modern cybersecurity.
+
+It was a reminder that hacking responsibly isn’t just about tools — it’s about protecting confidentiality, integrity, and availability with ethics and structure.
+
+
+---
+
+🔍 What I Learned
+
+🧩 1. The CIA Triad
+
+Confidentiality – prevent unauthorized access (encryption, passwords).
+
+Integrity – keep data accurate & untampered (hashing, version control).
+
+Availability – ensure authorized users can access resources when needed (redundancy, backups).
+
+
+🛡️ 2. Information Assurance (IA)
+
+Ensures authenticity, reliability, and trust throughout data’s life cycle.
+
+Achieved through administrative, technical, and physical safeguards.
+
+
+⚙️ 3. Security Controls Categories
+
+Type	Focus	Example
+
+Administrative	Policies, training, HR processes	Security policies, awareness sessions
+Technical	Hardware/software mechanisms	Firewalls, MFA, IDS, encryption
+Physical	Tangible barriers	CCTV, locks, biometric access
+
+
+Each works together to form a layered defense (Defense-in-Depth).
+
+📊 4. Risk Assessment
+
+Formula:
+
+RISK = THREAT * VULNERABILITY * IMPACT
+
+A Risk Matrix compares likelihood vs consequence, helping prioritize what to fix first.
+
+📚 5. Security Laws & Standards
+
+GDPR (EU) – global privacy benchmark
+
+NDPA (Nigeria) – 2023 data protection law
+
+HIPAA (US) – healthcare information security
+
+SOX (US) – financial record integrity
+
+PCI DSS – payment card data protection
+
+ISO/IEC 27001/27701 – global ISMS standards
+
+
+🤝 6. Ethical & Compliance Principles
+
+Lawful data handling & informed consent
+
+Transparency and accountability
+
+Minimal data collection & responsible storage
+
+
