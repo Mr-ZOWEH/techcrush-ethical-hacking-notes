@@ -127,3 +127,76 @@ Transparency and accountability
 Minimal data collection & responsible storage
 
 
+
+
+Date: 2025-10-22
+Bootcamp: TechCrush Ethical Hacking Bootcamp (@TechCrushHQ)
+Scholarship: #Tech4AfricansScholarship  |  #TechCrush  |  #Tech4Africans
+Facilitator: Caleb Ndubuisi
+
+
+---
+
+
+
+🗒️ Summary
+
+Day 3 introduced one of the most critical stages in ethical hacking — Information Gathering and Reconnaissance, also called footprinting.
+Before any penetration test begins, an ethical hacker must know what’s visible to the world.
+Today’s lesson taught how to collect, interpret, and secure that public information responsibly.
+
+
+---
+
+🔍 What I Learned
+
+1️⃣ Footprinting Concept
+
+Reconnaissance is the information-collection phase before testing.
+
+It helps identify risks from public data exposure.
+
+The goal: Know your target, secure your perimeter.
+
+
+2️⃣ Types of Footprinting
+
+Type	Interaction	Tools / Sources	Purpose
+
+Passive	No direct contact	Search engines, OSINT, social media	Silent info gathering
+Active	Direct interaction	DNS queries, port scans, enumeration	Deeper technical mapping
+
+
+3️⃣ Search Engine Reconnaissance
+
+Search engines reveal enormous data about companies, technologies, and infrastructure.
+Ethical hackers use Google Dorking defensively — to discover and fix what attackers might find.
+
+4️⃣ Advanced Search Operators
+
+# Examples of safe reconnaissance queries
+site:example.com
+inurl:login
+intitle:"index of"
+intext:"vpn configuration"
+
+These narrow down results and expose public-facing data that shouldn’t be exposed.
+👉🏽 Always review and secure such findings — never exploit them.
+
+5️⃣ Other Recon Sources
+
+Wayback Machine (archive.org): View historical pages or deleted content.
+
+People Search Engines: Identify exposed contact data (Spokeo, Pipl, Whitepages).
+
+Shodan: Discover devices and open ports on the public Internet.
+
+WHOIS: Find domain registration and ownership details.
+
+
+6️⃣ Ethical Boundaries
+
+Footprinting is legal only when used for authorized assessment.
+The purpose is awareness, not exploitation.
+Report, remediate, and educate — never attack.
+
